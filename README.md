@@ -10,22 +10,12 @@ You will submit your assignments by adding your code to this repository. You wil
 option of handing in late work! I will simply grade whatever is in your respoistory at the appointed due date.
 
 # Team Work Requirements
-Every member of your group is required to make regular commits to the repository. You should commit and
-push at least at the end of each work session. Each group member will be graded according to their contribution
-statistics in github. This means that frequent pushes are a must! I will be looking at the percentage of the
-code which is attributable to you. You are working in groups of 5, and so I expect each team member to be 
-responsible for 20% of the code. Of course, it will be difficult to hit this mark exactly,
-and so there will be a 10% leeway. The grade you will receive as an individual is computed according to the
-following formula:
-
-    group grade * multiplier
-
-The multipliers are based on your percentage of contribution:
-  * 0-5% : multiplier = 0
-  * 5-10% : multiplier = 0.5
-  * 10-30% : multiplier = 1
-  * 30- 50% : multiplier = 0.75
-  * 50 - 75% : multiplier = 0.5
-  * greater than 75%: multiplier = 0
-The keen observer will note that contributing too much will also result in a penalty. This means that you must 
-find a way to share the responsibility equally. You do not have the option to fail to work together!
+Every member of your group is required to make regular commits to the
+repository. You should commit and push at least at the end of each
+work session. Each group member will be graded according to their
+contribution statistics in github. This means that frequent pushes are
+a must! I will be looking at your contributions in terms of how much
+code you have contributed. Simply pushing one minor change will not
+suffice. I will reduce the grades of any student who I believe has not
+done their fair share. You may even earn a grade of zero if you
+contribute nothing. So be careful!
